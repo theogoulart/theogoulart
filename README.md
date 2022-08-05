@@ -13,7 +13,7 @@
 🤓 Nerd avoado<br>
 💬 Pergunte-me sobre carreira em tecnologia<br>
 🎮 Formado em Sistemas de Informação<br>
-🐱 Pai de pet<br>
+🐱 Pai de pet
 
 <br>
 
@@ -22,8 +22,12 @@
 ![C#](https://img.shields.io/badge/CSharp-20232A?style=flat&logo=csharp&logoColor=239120) &nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?flat&logo=javascript&logoColor=F7DF1E) &nbsp;
 ![NextJS](https://img.shields.io/badge/NextJs-black?style=flat&logo=next.js) &nbsp;
-![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity) &nbsp;
+![Unity](https://img.shields.io/badge/Unity-black?style=flat&logo=unity)
+
 <br>
+
+## Status ⭐
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theogoulart&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **theogoulart/theogoulart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
